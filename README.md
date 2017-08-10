@@ -1,6 +1,7 @@
 # React Chat
 > Chat webapp using React/NodeJS/Websockets
 
+![Alt Text](http://i.imgur.com/3ppGnJl.gif)
 
 ## How to run
 
